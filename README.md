@@ -269,10 +269,3 @@ FSM-Based-Line-Following-and-Obstacle-Avoiding-Robot/
 
 ---
 
-## Author
-
-**Nitin Mereddy**
-
-Master of Applied Computer Science  
-St. Francis Xavier University  
-Nova Scotia, Canada
