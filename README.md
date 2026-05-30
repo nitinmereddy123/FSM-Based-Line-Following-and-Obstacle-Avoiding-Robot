@@ -168,7 +168,6 @@ The project uses a cooperative multitasking approach based on the Arduino `milli
 
 ## Proportional Control
 
-```cpp
 correction = Kp * error;
 
 leftMotorSpeed  = BASE_SPEED - correction;
